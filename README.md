@@ -2,7 +2,7 @@
 
 ![logo](https://user-images.githubusercontent.com/62474258/132944808-1c72efec-d3c8-41ef-9025-379eb37eda07.png)
 
-I'm a frontend developer who is passionate about making modern websites and applications. Currently I'm learning React and I hone JavaScript. :book:<br/>I'm the one who values clean code the most.
+I'm a frontend developer who is passionate about making modern websites and applications. Currently I'm learning React and I hone JavaScript.&nbsp;:book:&nbsp;I'm the one who values clean code the most.
 <!--
 **norbert-swieconek/norbert-swieconek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
