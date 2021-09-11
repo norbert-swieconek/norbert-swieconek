@@ -4,4 +4,4 @@
 
 I'm a frontend developer who is passionate about making modern websites and applications. I'm at the beginning of the path but I uncovered that is my passion. Learning is comes easy to me, and programming delivers to me satisfaction. I'm the one who values clean code the most.
 <br/><br/>
-Currently I'm learning React and I hone JavaScript.&nbsp;:book:&nbsp;
+Currently I'm learning React and I hone JavaScript.&nbsp; :book:
