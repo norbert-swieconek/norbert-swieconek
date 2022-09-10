@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norbert-swieconek&label=Profile%20views&color=0e75b6&style=flat" alt="norbert-swieconek" /> </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=norbert-swieconek&show_icons=true&locale=en&layout=compact"         alt="norbert-swieconek" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=norbert-swieconek&show_icons=true&locale=en&layout=compact"         alt="norbert-swieconek" /> </br>
 <img align="right" width="353" src="https://github-readme-stats.vercel.app/api?username=norbert-swieconek&count_private=true" />
 
 
