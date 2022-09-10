@@ -5,18 +5,9 @@ I'm a frontend developer who is passionate about making modern websites and appl
 
 ## Skills and Experience
 <div style="display: flex;">
-  <div style="display: flex; flex-direction: column">
-    <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg" />
-    <p>HTML</p>
-  </div>
-  <div style="display: flex; flex-direction: column">
-    <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/css3.svg" />
-    <p>CSS</p>
-  </div>
-  <div style="display: flex; flex-direction: column">
-    <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/javascript.svg" />
-    <p>JavaScript</p>
-  </div>
+  <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg" />
+  <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/css3.svg" />
+  <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/javascript.svg" />
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=norbert-swieconek)](https://github.com/anuraghazra/github-readme-stats)
