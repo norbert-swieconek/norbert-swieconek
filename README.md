@@ -29,5 +29,5 @@ I'm a frontend developer who is passionate about making modern websites and appl
 ## Statistics:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=norbert-swieconek&show_icons=true&locale=en&layout=compact" alt="norbert-swieconek" /></p>&nbsp
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=norbert-swieconek&hide=contribs,prs)
+<p align="right">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=norbert-swieconek&hide=contribs,prs)</p>
 
