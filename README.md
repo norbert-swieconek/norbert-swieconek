@@ -13,7 +13,7 @@ I'm a frontend developer who is passionate about making modern websites and appl
 </div>
 
 <div>
-  <img style="vertical-align:middle" height="32" width="32" src="[https://placehold.it/60x60](https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg">
+  <img style="vertical-align:middle" height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg">
   <span style="">Works.</span>
 </div>
 
