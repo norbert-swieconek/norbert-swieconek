@@ -12,11 +12,6 @@ I'm a frontend developer who is passionate about making modern websites and appl
   </p>
 </div>
 
-<div>
-  <img style="vertical-align:middle" height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg">
-  <span style="">Works.</span>
-</div>
-
 ## Examples of Work
 <img src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/chat-app-example.gif" width="256px" />
 
