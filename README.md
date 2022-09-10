@@ -28,4 +28,4 @@ I'm a frontend developer who is passionate about making modern websites and appl
 
 ## Statistics:
 <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=norbert-swieconek&count_private=true" />
-<img align="right" width="420"  src="https://github-readme-stats.vercel.app/api/top-langs?username=norbert-swieconek&show_icons=true&locale=en&layout=compact" alt="norbert-swieconek" />
+<img align="left" width="420"  src="https://github-readme-stats.vercel.app/api/top-langs?username=norbert-swieconek&show_icons=true&locale=en&layout=compact" alt="norbert-swieconek" />
