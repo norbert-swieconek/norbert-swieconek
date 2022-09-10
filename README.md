@@ -6,10 +6,7 @@ I'm a frontend developer who is passionate about making modern websites and appl
 ## Skills and Experience
 <div style="display: flex;">
   <p align="center">
-    <p>
-      <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg" /> </br>
-      test
-    </p>
+    <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg" /> test
     <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/css3.svg" /> &nbsp
     <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/javascript.svg" />
   </p>
