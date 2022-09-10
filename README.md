@@ -3,14 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norbert-swieconek&label=Profile%20views&color=0e75b6&style=flat" alt="norbert-swieconek" /> </p>
 
-
-<img align="right" width="353" src="https://github-readme-stats.vercel.app/api?username=norbert-swieconek&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=norbert-swieconek&show_icons=true&locale=en&layout=compact" alt="norbert-swieconek" />
+<img align="right" width="355" src="https://github-readme-stats.vercel.app/api?username=norbert-swieconek&count_private=true" />
   
 ### Hi there 👋, I'm Norbert
 I'm a frontend developer who is passionate about making modern websites and applications. I'm at the beginning of the path but I uncovered that is my passion. Learning comes easy to me, and I get a lot of satisfaction out of programming.
 
 ## Languages and Tools:
-<img align="right" height="66" src="https://github-readme-stats.vercel.app/api/top-langs?username=norbert-swieconek&show_icons=true&locale=en&layout=compact"         alt="norbert-swieconek" />
 <div style="display: flex;">
   <p align="left">
     <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg" alt="HTML5" /> &nbsp &nbsp
