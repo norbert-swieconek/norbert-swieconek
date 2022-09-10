@@ -21,6 +21,7 @@ I'm a frontend developer who is passionate about making modern websites and appl
   <img src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/chat-app-example.gif" width="256px" height="438px" />
   <img src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/mobile-layout.gif" width="256px" height="438px" />
 </div>
+<img src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/desktop-layout.gif" />
 
 
 ## Connect with Me:
