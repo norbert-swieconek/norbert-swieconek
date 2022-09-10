@@ -5,7 +5,7 @@ I'm a frontend developer who is passionate about making modern websites and appl
 
 ## Skills and Experience
 <div style="display: flex;">
-  <div style="display: flex; flex-direction: column; justify-content: center; width: 200px; height: 200px">
+  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center">
     <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg" />
     <p>HTML</p>
   </div>
