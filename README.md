@@ -30,5 +30,5 @@ I'm a frontend developer who is passionate about making modern websites and appl
 
 ## Statistics:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=norbert-swieconek&show_icons=true&locale=en&layout=compact" alt="norbert-swieconek" /></p> 
-<p>&nbsp<img align="right" src="https://github-readme-stats.vercel.app/api?username=norbert-swieconek&show_icons=true&locale=en" alt="norbert-swieconek" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=norbert-swieconek&show_icons=true&locale=en&layout=compact" alt="norbert-swieconek" /></p></br>
+<p>&nbsp<img align="left" src="https://github-readme-stats.vercel.app/api?username=norbert-swieconek&show_icons=true&locale=en" alt="norbert-swieconek" /></p>
