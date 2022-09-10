@@ -28,6 +28,6 @@ I'm a frontend developer who is passionate about making modern websites and appl
 
 ## Statistics:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=norbert-swieconek&show_icons=true&locale=en&layout=compact" alt="norbert-swieconek" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=norbert-swieconek)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
