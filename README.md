@@ -18,12 +18,10 @@ I'm a frontend developer who is passionate about making modern websites and appl
 <img src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/chat-app-example.gif" width="256px" />
 
 ## Connect with Me:
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/norbert-swieconek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="norbert-swieconek" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16935792/norbert-%c5%9awi%c4%99conek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="norbert-święconek" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16935792/norbert-%c5%9awi%c4%99conek?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="norbert-święconek" height="30" width="40" /></a>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=norbert-swieconek)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/norbert-swieconek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/norbert-swieconek/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/norbert-Święconek)  
 
