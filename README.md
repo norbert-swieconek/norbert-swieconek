@@ -6,31 +6,27 @@
 ### Hi there 👋, I'm Norbert
 I'm a frontend developer who is passionate about making modern websites and applications. I'm at the beginning of the path but I uncovered that is my passion. Learning comes easy to me, and I get a lot of satisfaction out of programming.
 
-<div style="display: flex">
-  <div>
-    ## Languages and Tools:
-    <div style="display: flex;">
-      <p align="center">
-        <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg" alt="HTML5" /> &nbsp
-        <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/css3.svg" alt="CSS3" /> &nbsp
-        <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/javascript.svg" alt="JavaScript" />
-      </p>
-    </div>
-  </div>
-  <div>
-    ## Connect with Me:
-    <p align="center">
-    <a href="https://linkedin.com/in/norbert-swieconek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-      readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="norbert-swieconek" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/16935792/norbert-%c5%9awi%c4%99conek?tab=profile" target="blank"><img align="center"           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="norbert-święconek"     height="30" width="40" /></a>
-    </p>
-  </div>
-  
+
+## Languages and Tools:
+<div style="display: flex;">
+  <p align="center">
+    <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg" alt="HTML5" /> &nbsp
+    <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/css3.svg" alt="CSS3" /> &nbsp
+    <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/javascript.svg" alt="JavaScript" />
+  </p>
+</div>
 
 </div>
+
 ## Examples of Work:
 <img src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/chat-app-example.gif" width="256px" />
 
 
+## Connect with Me:
+<p align="center">
+<a href="https://linkedin.com/in/norbert-swieconek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-      readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="norbert-swieconek" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16935792/norbert-%c5%9awi%c4%99conek?tab=profile" target="blank"><img align="center"                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="norbert-święconek" height="30" width="40" /></a>
+</p>
 
 ## Statistics:
 
