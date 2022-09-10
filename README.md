@@ -36,5 +36,5 @@ I'm a frontend developer who is passionate about making modern websites and appl
 
 | Languages and Tools | Header 2 |
 | --- | --- |
-| <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg" alt="HTML5" /> &nbsp <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/css3.svg" alt="CSS3" /> &nbsp <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/javascript.svg" alt="JavaScript" /> | Cell 3 |
+| <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg" alt="HTML5" /> <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/css3.svg" alt="CSS3" /> <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/javascript.svg" alt="JavaScript" /> | Cell 3 |
 | data | Some long data here |
