@@ -1,5 +1,5 @@
 <img alt="logo" src="https://user-images.githubusercontent.com/62474258/132944808-1c72efec-d3c8-41ef-9025-379eb37eda07.png" />
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=norbert-swieconek&show_icons=true&locale=en&layout=compact" alt="norbert-swieconek" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=norbert-swieconek&show_icons=true&locale=en&layout=compact" alt="norbert-swieconek" /></p> </br></br>
 <p>&nbsp<img align="right" src="https://github-readme-stats.vercel.app/api?username=norbert-swieconek&show_icons=true&locale=en" alt="norbert-swieconek" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norbert-swieconek&label=Profile%20views&color=0e75b6&style=flat" alt="norbert-swieconek" /> </p>
