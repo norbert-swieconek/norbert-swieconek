@@ -10,7 +10,7 @@ I'm a frontend developer who is passionate about making modern websites and appl
 ## Languages and Tools:
 <div style="display: flex;">
   <p align="left">
-    <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg" alt="HTML5" /> &nbsp
+    <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg" alt="HTML5" /> &nbsp &nbsp
     <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/css3.svg" alt="CSS3" /> &nbsp
     <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/javascript.svg" alt="JavaScript" />
   </p>
