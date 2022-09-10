@@ -1,5 +1,5 @@
-![logo](https://user-images.githubusercontent.com/62474258/132944808-1c72efec-d3c8-41ef-9025-379eb37eda07.png)
-<img align="right" alt="coding" width="400" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/coding%20gif.gif" />
+![logo](https://user-images.githubusercontent.com/62474258/132944808-1c72efec-d3c8-41ef-9025-379eb37eda07.png align="right")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norbert-swieconek&label=Profile%20views&color=0e75b6&style=flat" alt="norbert-swieconek" /> </p>
 
