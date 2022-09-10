@@ -35,6 +35,6 @@ I'm a frontend developer who is passionate about making modern websites and appl
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=norbert-swieconek&show_icons=true&locale=en" alt="norbert-swieconek" /></p>
 
 | Languages and Tools | Header 2 |
-| --- | --- | --------- |
-| Some data | | Cell 3 |
+| --- | --- |
+| Some data | Cell 3 |
 | data | Some long data here |
