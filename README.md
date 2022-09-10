@@ -5,9 +5,10 @@
 ### Hi there 👋, I'm Norbert
 I'm a frontend developer who is passionate about making modern websites and applications. I'm at the beginning of the path but I uncovered that is my passion. Learning comes easy to me, and I get a lot of satisfaction out of programming.
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=norbert-swieconek&show_icons=true&locale=en&layout=compact" alt="norbert-swieconek" /></p>
+
 
 ## Languages and Tools:
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=norbert-swieconek&show_icons=true&locale=en&layout=compact" alt="norbert-swieconek" /></p>
 <div style="display: flex;">
   <p align="left">
     <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg" alt="HTML5" /> &nbsp &nbsp
