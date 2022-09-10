@@ -1,24 +1,23 @@
-![logo](https://user-images.githubusercontent.com/62474258/132944808-1c72efec-d3c8-41ef-9025-379eb37eda07.png)
+<h1 align="center">Hi 👋, I'm dasdasdasdasdas</h1>
+<h3 align="center">A passionate frontend develodasdper from India</h3>
 
-### Hi there 👋, I'm Norbert
-I'm a frontend developer who is passionate about making modern websites and applications. I'm at the beginning of the path but I uncovered that is my passion. Learning comes easy to me, and I get a lot of satisfaction out of programming.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=norbert-swieconek&label=Profile%20views&color=0e75b6&style=flat" alt="norbert-swieconek" /> </p>
 
-## Skills and Experience
-<div style="display: flex;">
-  <p align="center">
-    <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg" alt="HTML5" /> &nbsp
-    <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/css3.svg" alt="CSS3" /> &nbsp
-    <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/javascript.svg" alt="JavaScript" />
-  </p>
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=norbert-swieconek" alt="norbert-swieconek" /></a> </p>
 
-## Examples of Work
-<img src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/chat-app-example.gif" width="256px" />
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/norbert-swieconek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="norbert-swieconek" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/norbert-święconek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="norbert-święconek" height="30" width="40" /></a>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=norbert-swieconek)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/norbert-swieconek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/norbert-swieconek/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/norbert-Święconek)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=norbert-swieconek&show_icons=true&locale=en&layout=compact" alt="norbert-swieconek" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=norbert-swieconek&show_icons=true&locale=en" alt="norbert-swieconek" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=norbert-swieconek&" alt="norbert-swieconek" /></p>
