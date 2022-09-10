@@ -4,7 +4,7 @@
 I'm a frontend developer who is passionate about making modern websites and applications. I'm at the beginning of the path but I uncovered that is my passion. Learning comes easy to me, and I get a lot of satisfaction out of programming.
 
 ## Skills and Experience
-* <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg" /> HTML
+* <img height="32" width="32" fill="red" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/html5.svg" /> HTML
 * <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/css3.svg" /> CSS
 * <img height="32" width="32" src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/javascript.svg" /> JavaScript
 
