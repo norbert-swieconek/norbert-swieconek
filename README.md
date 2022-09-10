@@ -11,6 +11,8 @@ I'm a frontend developer who is passionate about making modern websites and appl
 </div>
 
 ## Examples of Work
+<img src="https://github.com/norbert-swieconek/norbert-swieconek/blob/main/chat-app-example.gif" width="256px" />
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=norbert-swieconek)](https://github.com/anuraghazra/github-readme-stats)
 
