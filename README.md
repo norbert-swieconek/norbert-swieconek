@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norbert-swieconek&label=Profile%20views&color=0e75b6&style=flat" alt="norbert-swieconek" /> </p>
 
 ### Hi there 👋, I'm Norbert
-I'm a frontend developer who is passionate about making modern websites and applications. I'm at the beginning of the path but I uncovered that is my passion. Learning comes easy to me, and I get a lot of satisfaction out of programming.
 
 ## Languages and Tools:
 <div style="display: flex;">
